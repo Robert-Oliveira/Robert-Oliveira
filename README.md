@@ -5,7 +5,7 @@
 
 🔭 Desenvolvedor Jr<br>
 🌱 Estudando Programação<br>
-🏹 Futuro desenvolvedor.
+🏹 Futuro desenvolvedor Pleno.
 
 <div align="center">
   <a href="https://github.com/robert-oliveira">
